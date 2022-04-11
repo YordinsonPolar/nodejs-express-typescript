@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-typescript",
+  "version": "1.0.0",
+  "description": "node js, express and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YordinsonPolar/nodejs-express-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YordinsonPolar/nodejs-express-typescript/issues"
+  },
+  "homepage": "https://github.com/YordinsonPolar/nodejs-express-typescript#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
